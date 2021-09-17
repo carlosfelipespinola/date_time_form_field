@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:date_time_picker_form_field/date_time_picker_form_field.dart';
+import 'package:date_time_picker_form_fields/date_time_picker_form_fields.dart';
 
 void main() {
   test('adds one to input values', () {
